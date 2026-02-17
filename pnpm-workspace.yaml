@@ -1,1 +1,5 @@
-{"onlyBuiltDependencies": ["esbuild"]}
+onlyBuiltDependencies:
+  - esbuild
+
+packages:
+  - "examples/*"
